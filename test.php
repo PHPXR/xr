@@ -1,4 +1,4 @@
 <?php 
 echo 'success';
-echo 'brand2';
+echo 'brand1';
 
