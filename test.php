@@ -1,4 +1,4 @@
 <?php 
 echo 'success';
-echo 'brand2';
+echo '我是master';
 
