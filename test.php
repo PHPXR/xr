@@ -1,4 +1,4 @@
 <?php 
 echo 'success';
-echo '1'
-?>
+echo '我是master';
+
